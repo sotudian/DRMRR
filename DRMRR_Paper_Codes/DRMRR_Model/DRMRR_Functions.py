@@ -2,7 +2,9 @@
 *************************************************************************
 *************************************************************************
     Python implementation of DRMRR algorithm introduced in the paper: 
-      "Distributionally Robust Multi-Output Regression Ranking" 
+ "Distributionally Robust Learning-To-Rank Under the Wasserstein Metric" 
+                                 by 
+     Shahabeddin Sotudian, Ruidi Chen, and Ioannis Ch. Paschalidis
 *************************************************************************
 *************************************************************************
 """
